@@ -2,12 +2,12 @@
 
 //$result = 1 < 3; //true
 
-$first_name = 'Jeremy';
-$last_name = 'McPeak';
+$first_name = 'Meri';
+$last_name = 'Prezime';
 
-if ($first_name == 'Jeremy' && $last_name == 'mcPeak'){ // or -> dvije uspravne crte || (na tipkovnici prije broja 1)
+if ($first_name == 'Meri' && $last_name == 'prezime'){ // or -> ||
      echo 'The first condition is true';
-}  else if ($first_name == 'jeremy' && $last_name == 'McPeak') {
+}  else if ($first_name == 'meri' && $last_name == 'Prezime') {
      echo 'The second condition is true'
 } else {
      echo 'The conditions are false';
