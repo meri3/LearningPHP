@@ -4,7 +4,7 @@
      function sum($a, $b) {
           $result = $a + $b; //local variable
 
-          return $result
+          return $result;
      }
 
      $result = sum(1, 2);  //global variable
